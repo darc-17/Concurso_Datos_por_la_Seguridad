@@ -7,8 +7,8 @@
 ![statsmodels](https://img.shields.io/badge/statsmodels-0.14-4EACD8?logoColor=white)
 ![geopandas](https://img.shields.io/badge/geopandas-0.13-139C5A?logoColor=white)
 
-> Proyecto **finalista** del DATAJAM Datos por la Seguridad 2026 — Cámara de Comercio de Bogotá.  
-> Reto 2: Seguridad y Obras Públicas · Pitch ante jueces: 25 de abril de 2026.
+> Proyecto **ganador** del DATAJAM Datos por la Seguridad 2026 — Cámara de Comercio de Bogotá.  
+> Reto 2: Seguridad y Obras Públicas
 
 ---
 
